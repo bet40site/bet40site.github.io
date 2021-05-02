@@ -18,3 +18,5 @@
     {% endif %}
     {% endfor %}
 </urlset>
+
+url: https://bet40site.github.io
